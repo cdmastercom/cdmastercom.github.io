@@ -1,0 +1,3 @@
+[submodule "programming-the-gpu-with-rust"]
+	path = programming-the-gpu-with-rust
+	url = https://github.com/cdmastercom/programming-the-gpu-with-rust.git
